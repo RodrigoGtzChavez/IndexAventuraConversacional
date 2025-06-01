@@ -25,7 +25,7 @@ Este es el Guthibe de una Aventura Conversacional que estoy intentando escribir 
 # El archivo legacy.py contiene el codigo con la primer Entrega
 
 
-![Vista previa del juego](preview1.png)
+![Vista previa del juego](preview0.png)
 
 
 
