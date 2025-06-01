@@ -1,7 +1,16 @@
-# IndexAventuraConversacional
-Aventura Conversacional html, javascript basico y estilos css.
+# Index - AventuraConversacional - Brandump
 
-Este es el Frontend de una Aventura Conversacional que hice utilizando html, javascript basico y estilos css.
+
+
+Este es el Guthibe de una Aventura Conversacional que estoy intentando escribir de una historia que se me ocurre,
+Primero en la universidad nos pidieron escribir en simple codigo python una Aventura Conversacional, que utilice el Input del usuario :  (si/no  blanco/morado)
+
+El archivo legacy.py contiene el codigo con la primer Entrega
+
+
+
+Después jugando con distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
+quiero hacer el juego utilizando html, javascript basico y estilos css.
 
 # 🎮 Tree Structure of the Decision Making in the Main Story
 
