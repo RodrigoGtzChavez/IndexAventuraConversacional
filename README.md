@@ -4,6 +4,40 @@ Aventura Conversacional html, javascript basico y estilos css.
 Este es el Frontend de una Aventura Conversacional que hice utilizando html, javascript basico y estilos css.
 
 # 🎮 Tree Structure of the Decision Making in the Main Story
+
+   ```
+🌟 Árbol de Decisiones
+Inicio
+¿Quieres acercarte a la Luz? (si / no)
+   🔹 Si eliges si
+      Eres transportado a la entrada de una colonia desértica.
+      ¿Deseas entrar a la colonia? (si / no)
+         🏚️ Si eliges si
+            Entras y recibes un rayo en la cabeza.
+            Debes usar un rayo: verde, blanco, rojo
+               Verde: es de sanación, pero no resuelve la situación → mueres
+               Blanco: armoniza el conflicto → misión verdadera comienza
+               Rojo: intensifica el caos → mueres
+   🧙‍♂️ Si eliges no
+      Un Maestro te guía y te explica los rayos.
+      Luego ocurre el mismo conflicto vecinal.
+         Debes usar un rayo: verde, blanco, rojo
+            Verde: es de sanación, pero no resuelve la situación → mueres
+            Blanco: armoniza el conflicto → misión verdadera comienza
+            Rojo: intensifica el caos → mueres
+🔹 Si eliges no
+Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
+¿Te gustaría inicializar el Propósito? (si / no)
+   ✨ Si eliges si
+      Se repite el mismo camino que si hubieras dicho sí a la Luz (ver arriba).
+🚫 Si eliges no
+Fin del juego.
+
+   ```
+
+
+
+
    ```
 aventura-del-rayo/
 ├── index.html          # Entry point (start screen)
