@@ -8,6 +8,9 @@ Primero en la universidad nos pidieron escribir en simple codigo python una Aven
 El archivo legacy.py contiene el codigo con la primer Entrega
 
 
+![Vista previa del juego](preview1.png)
+
+
 
 Después jugando con distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
 quiero hacer el juego utilizando html, javascript basico y estilos css.
