@@ -1,3 +1,4 @@
+![Vista previa del juego](caratula.png)
 # Index - AventuraConversacional - Brandump
 ```text
 ██╗  ██╗██╗   ██╗██████╗ ██████╗ ██████╗  ██████╗  ██████╗ ███████╗
@@ -112,5 +113,4 @@ aventura-del-rayo/
 
    ```
 
-# Imagen generada por ChatGPT SNES Style
-![Vista previa del juego](caratula.png)
+
