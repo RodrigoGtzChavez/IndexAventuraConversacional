@@ -45,20 +45,20 @@ Inicio
                Verde: es de sanación, pero no resuelve la situación → mueres
                Blanco: armoniza el conflicto → misión verdadera comienza
                Rojo: intensifica el caos → mueres
-   🧙‍♂️ Si eliges no
-      Un Maestro te guía y te explica los rayos.
-      Luego ocurre el mismo conflicto vecinal.
-         Debes usar un rayo: verde, blanco, rojo
-            Verde: es de sanación, pero no resuelve la situación → mueres
-            Blanco: armoniza el conflicto → misión verdadera comienza
-            Rojo: intensifica el caos → mueres
-🔹 Si eliges no
+         🧙‍♂️ Si eliges no
+            Un Maestro te guía y te explica los rayos.
+            Luego ocurre el mismo conflicto vecinal.
+              Debes usar un rayo: verde, blanco, rojo
+                Verde: es de sanación, pero no resuelve la situación → mueres
+                Blanco: armoniza el conflicto → misión verdadera comienza
+                Rojo: intensifica el caos → mueres
+    🔹 Si eliges no
 Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
-¿Te gustaría inicializar el Propósito? (si / no)
-   ✨ Si eliges si
-      Se repite el mismo camino que si hubieras dicho sí a la Luz (ver arriba).
-🚫 Si eliges no
-Fin del juego.
+  ¿Te gustaría inicializar el Propósito? (si / no)
+     ✨ Si eliges si
+        Se repite el mismo camino que si hubieras dicho sí a la Luz (Ir hasta arriba).
+      🚫 Si eliges no
+  Fin del juego.
 
    ```
 
