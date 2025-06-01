@@ -112,3 +112,5 @@ aventura-del-rayo/
 
    ```
 
+# Imagen generada por ChatGPT SNES Style
+![Vista previa del juego](caratula.png)
