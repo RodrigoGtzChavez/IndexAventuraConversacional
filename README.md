@@ -3,6 +3,9 @@ Aventura Conversacional html, javascript basico y estilos css.
 
 Este es el Frontend de una Aventura Conversacional que hice utilizando html, javascript basico y estilos css.
 
+   ```
+   git clone https://github.com/tu-usuario/juego-aventura-hybridge2024.git
+
 aventura-del-rayo/
 ├── index.html          # Entry point (start screen)
 ├── approach.html       # Approach screen
@@ -30,3 +33,6 @@ aventura-del-rayo/
 ├── js/
 │   ├── game.js         # Game logic and states
 │   ├── utils.js        # Utility functions
+
+   ```
+
