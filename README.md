@@ -1,5 +1,4 @@
 ![Vista previa del juego](caratula.png)
-# Index - AventuraConversacional - Brandump
 ```text
 ██╗  ██╗██╗   ██╗██████╗ ██████╗ ██████╗  ██████╗  ██████╗ ███████╗
 ██║  ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔════╝
