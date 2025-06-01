@@ -15,7 +15,7 @@
 
 
 
-Este es el Guthibe de una Aventura Conversacional que estoy intentando escribir de una historia que se me ocurrio.
+Este es el Guthib de una Aventura Conversacional que estoy intentando escribir de una historia que se me ocurrio.
 
   -Primero en la universidad nos pidieron escribir en codigo python una Aventura Conversacional; esta deberia utilizar el Input del usuario para avanzar en la Historia :  (si/no  blanco/morado)
 
@@ -30,7 +30,7 @@ Este es el Guthibe de una Aventura Conversacional que estoy intentando escribir 
 
 
 
-# 🎮 Tree Structure of the Decision Making in the Main Story
+# 🎮 Estructura Básica de la Lógica detras del Juego/Main Story
 
    ```
 🌟 Árbol de Decisiones
@@ -69,10 +69,10 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 
-$ Input Mio
 
-Jugando con distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
-quisiera seguir escribiendo el juego utilizando html, javascript basico, estilos css. (Quizás integrando la logica Python-Pygame)
+Distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
+Sigo escribiendo el juego utilizando html, javascript basico, estilos css. 
+(Quizás integrando la logica Python-Pygame)
 
 
 
