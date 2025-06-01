@@ -15,10 +15,14 @@
 
 
 
-Este es el Guthibe de una Aventura Conversacional que estoy intentando escribir de una historia que se me ocurre,
-Primero en la universidad nos pidieron escribir en simple codigo python una Aventura Conversacional, que utilice el Input del usuario :  (si/no  blanco/morado)
+Este es el Guthibe de una Aventura Conversacional que estoy intentando escribir de una historia que se me ocurrio.
 
-El archivo legacy.py contiene el codigo con la primer Entrega
+  -Primero en la universidad nos pidieron escribir en codigo python una Aventura Conversacional; esta deberia utilizar el Input del usuario para avanzar en la Historia :  (si/no  blanco/morado)
+
+
+
+
+# El archivo legacy.py contiene el codigo con la primer Entrega
 
 
 ![Vista previa del juego](preview1.png)
@@ -65,9 +69,10 @@ Fin del juego.
 
 
 
+$ Input Mio
 
-Después jugando con distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
-quiero hacer el juego utilizando html, javascript basico y estilos css.
+Jugando con distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
+quisiera seguir escribiendo el juego utilizando html, javascript basico, estilos css. (Quizás integrando la logica Python-Pygame)
 
 
 
