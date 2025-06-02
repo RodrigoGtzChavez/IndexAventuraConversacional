@@ -111,5 +111,5 @@ aventura-del-rayo/
 │   ├── utils.js        # Utility functions
 
    ```
-
-
+# Un pixel art mas
+![Vista previa del juego](pixelart.png)
