@@ -115,4 +115,4 @@ aventura-del-rayo/
 
    ```
 # Un pixel art mas
-![Vista previa del juego](pixelart.png)
+![Vista previa del juego](pixelart.jpeg)
