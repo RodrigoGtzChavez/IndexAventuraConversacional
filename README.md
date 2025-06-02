@@ -25,7 +25,7 @@ Guthib de una Aventura Conversacional que estaba intentando escribir de una hist
 
 # Legacy.py
 El archivo legacy.py contiene el codigo con la primer Entrega
-(Si tienes instalado python en tu computadora lo puedes descargar, ejecutarlo y jugar la aventura conversacional ;)
+(Si no tienes instalado python en tu computadora lo puedes descargar, ejecutarlo y jugar la aventura conversacional ;)
 
 
 ![Vista previa del juego](PreviewTerminal.png)
@@ -75,7 +75,7 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 # Stage 2
 Haciendo uso de Distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
 Segui escribiendo el juego utilizando html, javascript basico, estilos css. 
-(Pensando quizás integran la logica Python-Pygame&Pyodide)
+(Pensando quizás integrar la logica con Python - Pygame & Pyodide)
 
 
 
