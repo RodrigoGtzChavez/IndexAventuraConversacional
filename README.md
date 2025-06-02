@@ -15,14 +15,17 @@
 
 
 
-Este es el Guthib de una Aventura Conversacional que estoy intentando escribir de una historia que se me ocurrio.
-
-  -Primero en la universidad nos pidieron escribir en codigo python una Aventura Conversacional; esta deberia utilizar el Input del usuario para avanzar en la Historia :  (si/no  blanco/morado)
+Guthib de una Aventura Conversacional que estaba intentando escribir de una historia que se me ocurrio.
 
 
+  -Primero en la universidad nos pidieron escribir en codigo python una Aventura Conversacional;     esta deberia utilizar el Input del usuario para avanzar en la Historia :  
+  input(print(" si/no    blanco/morado"))
 
 
-# El archivo legacy.py contiene el codigo con la primer Entrega
+
+# Legacy.py
+El archivo legacy.py contiene el codigo con la primer Entrega
+(Si tienes instalado python en tu computadora lo puedes descargar, ejecutarlo y jugar la aventura conversacional ;)
 
 
 ![Vista previa del juego](PreviewTerminal.png)
@@ -69,10 +72,10 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 
-
-Distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
-Sigo escribiendo el juego utilizando html, javascript basico, estilos css. 
-(Quizás integrando la logica Python-Pygame)
+# Stage 2
+Haciendo uso de Distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
+Segui escribiendo el juego utilizando html, javascript basico, estilos css. 
+(Pensando quizás integran la logica Python-Pygame&Pyodide)
 
 
 
@@ -80,7 +83,7 @@ Sigo escribiendo el juego utilizando html, javascript basico, estilos css.
 
 
 
-# Posible Idea para estructurar Directorio Frontend
+# Arquitectura del Directorio Frontend
    ```
 aventura-del-rayo/
 ├── index.html          # Entry point (start screen)
