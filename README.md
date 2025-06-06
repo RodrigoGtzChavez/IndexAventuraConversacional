@@ -1,12 +1,7 @@
 ![Vista previa del juego](caratula.png)
 ```text
 ██╗  ██╗██╗   ██╗██████╗ ██████╗ ██████╗  ██████╗  ██████╗ ███████╗
-██║  ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔════╝
-███████║██║   ██║██████╔╝██████╔╝██████╔╝██║   ██║██║  ███╗█████╗  
-██╔══██║██║   ██║██╔═══╝ ██╔═══╝ ██╔═══╝ ██║   ██║██║   ██║██╔══╝  
-██║  ██║╚██████╔╝██║     ██║     ██║     ╚██████╔╝╚██████╔╝███████╗
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝      ╚═════╝  ╚═════╝ ╚══════╝
-                 🌌 Hupppge: Crónicas del Rayo
+█ Crónicas del Rayo
 
            ══════════════════════════════════════
             Capítulo 1: El Despertar de la Luz
@@ -15,17 +10,10 @@
 
 
 
-Guthib de una Aventura Conversacional que estaba intentando escribir de una historia que se me ocurrio.
 
 
-  -Primero en la universidad nos pidieron escribir en codigo python una Aventura Conversacional;     esta deberia utilizar el Input del usuario para avanzar en la Historia :  
-  input(print(" si/no    blanco/morado"))
+# Legacy
 
-
-
-# Legacy.py
-El archivo legacy.py contiene el codigo con la primer Entrega
-(Si no tienes instalado python en tu computadora lo puedes descargar, ejecutarlo y jugar la aventura conversacional ;)
 
 
 ![Vista previa del juego](PreviewTerminal.png)
@@ -33,7 +21,7 @@ El archivo legacy.py contiene el codigo con la primer Entrega
 
 
 
-# 🎮 Estructura Básica de la Lógica detras del Juego/Main Story
+# 🎮 Estructura Básica de la Lógica detras del Juego==Run.Main_Story
 
    ```
 🌟 Árbol de Decisiones
