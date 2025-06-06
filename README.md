@@ -71,7 +71,7 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 # Arquitectura del Juego en Godot
-
+```
 # ===== ESTRUCTURA DE CARPETAS RECOMENDADA =====
 # project/
 # ├── scenes/
@@ -102,11 +102,11 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 #     ├── dialogues/
 #     └── powers/
 
+```
+
+
+
 # ===== MAIN.GD - Controlador Principal =====
-
-
-
-
 
 
    ```
