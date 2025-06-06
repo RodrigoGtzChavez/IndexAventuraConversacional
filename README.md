@@ -62,9 +62,7 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 # Stage 2
-Haciendo uso de Distintas Inteligencias Artificiales (grok/claude/GPT/Gemini) 
-Segui escribiendo el juego utilizando html, javascript basico, estilos css. 
-(Pensando quizás integrar la logica con Python - Pygame & Pyodide)
+
 
 
 
@@ -72,7 +70,45 @@ Segui escribiendo el juego utilizando html, javascript basico, estilos css.
 
 
 
-# Arquitectura del Directorio Frontend
+# Arquitectura del Juego en Godot
+
+# ===== ESTRUCTURA DE CARPETAS RECOMENDADA =====
+# project/
+# ├── scenes/
+# │   ├── main/
+# │   │   ├── Main.tscn
+# │   │   └── Main.gd
+# │   ├── eras/
+# │   │   ├── Era1_Terminal.tscn
+# │   │   ├── Era2_RPG.tscn
+# │   │   └── Era3_Modern.tscn
+# │   ├── ui/
+# │   │   ├── TerminalUI.tscn
+# │   │   └── RPGMenu.tscn
+# │   └── characters/
+# │       └── Player.tscn
+# ├── scripts/
+# │   ├── managers/
+# │   │   ├── GameManager.gd
+# │   │   └── EraManager.gd
+# │   └── systems/
+# │       ├── DialogueSystem.gd
+# │       └── PowerSystem.gd
+# ├── assets/
+# │   ├── fonts/
+# │   ├── audio/
+# │   └── textures/
+# └── data/
+#     ├── dialogues/
+#     └── powers/
+
+# ===== MAIN.GD - Controlador Principal =====
+
+
+
+
+
+
    ```
 aventura-del-rayo/
 ├── index.html          # Entry point (start screen)
@@ -103,5 +139,5 @@ aventura-del-rayo/
 │   ├── utils.js        # Utility functions
 
    ```
-# Un pixel art mas
+# Un pixel art 
 ![Vista previa del juego](pixelart.jpeg)
