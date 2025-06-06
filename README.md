@@ -56,18 +56,20 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 ----------------------------------------------------------------------------------
-----------------------------------------------------------------------------------
-![Vista previa del juego](maqueta.png)
-
-
-
-# Stage 2
-
-
-
-
 ![Vista previa del juego](preview2.png)
+----------------------------------------------------------------------------------
 
+
+
+
+
+
+
+
+# Stage 2 - La evolucion de la Arquitectura del Juego de acuerdo con la historia 
+
+
+![Vista previa del juego](maqueta.png)
 
 
 # Arquitectura del Juego en Godot
