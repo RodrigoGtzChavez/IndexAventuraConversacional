@@ -143,4 +143,7 @@ aventura-del-rayo/
 
    ```
 # Un pixel art 
-![Vista previa del juego](pixelart.png)
+![Imagen estilo pixel art del Gremio](pixelart.png)
+---
+![Vista previa del mapa](parajesrpg.png)
+
