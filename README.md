@@ -143,4 +143,4 @@ aventura-del-rayo/
 
    ```
 # Un pixel art 
-![Vista previa del juego](pixelart.jpeg)
+![Vista previa del juego](pixelart.png)
