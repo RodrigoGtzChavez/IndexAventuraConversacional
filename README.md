@@ -12,7 +12,7 @@
 
 
 
-# Legacy
+
 
 
 
@@ -21,7 +21,9 @@
 
 
 
-# 🎮 Estructura Básica de la Lógica detras del Juego==Run.Main_Story
+# 🎮 Estructura Básica de la Lógica detras del Juego
+
+==Run.Main_Story
 
    ```
 🌟 Árbol de Decisiones
@@ -56,7 +58,6 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 ----------------------------------------------------------------------------------
-![Vista previa del juego](preview2.png)
 ----------------------------------------------------------------------------------
 
 
@@ -66,10 +67,10 @@ Flotas en la oscuridad. Una voz te ofrece iniciar tu propósito.
 
 
 
-# Stage 2 - La evolucion de la Arquitectura del Juego de acuerdo con la historia 
+# Stage 2 - La evolucion de la Arquitectura del Juego evoluciona en conjunto con con el avance en la historia 
 
 
-![Vista previa del juego](maqueta.png)
+
 
 
 # Arquitectura del Juego en Godot
